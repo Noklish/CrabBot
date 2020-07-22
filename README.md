@@ -1,0 +1,1 @@
+This is a work-in-progress discord bot that lets servers build their own soundboards

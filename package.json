@@ -1,0 +1,21 @@
+{
+  "name": "crabbot",
+  "version": "1.0.0",
+  "description": "A discord soundboard bot with personal, easy-to-make command lists",
+  "main": "src/index.js",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "discord.js": "^12.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "discord",
+    "music",
+    "soundboard"
+  ],
+  "author": "Noah 'Noklish' Schweser",
+  "license": "ISC"
+}
