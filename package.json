@@ -4,7 +4,7 @@
   "description": "A discord soundboard bot with personal, easy-to-make command lists",
   "main": "src/index.js",
   "dependencies": {
-    "@discordjs/opus": "^0.3.2",
+    "@discordjs/opus": "^0.8.0",
     "discord.js": "^12.2.0"
   },
   "devDependencies": {},
